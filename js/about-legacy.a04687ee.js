@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_project2"]=self["webpackChunkmy_project2"]||[]).push([[443],{3189:function(t,s,e){e.r(s),e.d(s,{default:function(){return u}});var a=function(){var t=this,s=t.$createElement;t._self._c;return t._m(0)},c=[function(){var t=this,s=t.$createElement,e=t._self._c||s;return e("div",{staticClass:"section"},[e("div",{staticClass:"card-img"}),e("div",{staticClass:"card-gao"}),e("div",{staticClass:"card-shadow"})])}],n={},r=n,i=e(1001),l=(0,i.Z)(r,a,c,!1,null,null,null),u=l.exports}}]);
+//# sourceMappingURL=about-legacy.a04687ee.js.map
